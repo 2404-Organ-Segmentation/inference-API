@@ -1,2 +1,2 @@
 # inference-API
-inference API for the segmentation GUI.
+inference API to interface with the segmentation GUI.
